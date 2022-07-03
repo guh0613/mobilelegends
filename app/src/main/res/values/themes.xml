@@ -19,7 +19,7 @@
         <item name="windowNoTitle">true</item>
     </style>
 
-    <style name="Theme.手游传奇.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="Theme.mobilelegends.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-    <style name="Theme.手游传奇.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="Theme.mobilelegends.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>
